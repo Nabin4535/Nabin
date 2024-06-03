@@ -1,8 +1,3 @@
-# DECODE BY : JOKER
-
-#ENCRYPTION:- ZLIB + BASE64
-
-#PYTHON VERSION:- 3.11
 
 import requests,bs4,json,os,sys,random,datetime,time,re
 import urllib3,rich,base64
